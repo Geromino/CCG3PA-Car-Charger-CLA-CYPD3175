@@ -1,0 +1,58 @@
+[INFO]: [main]AMS Power Dynamic Supply
+[INFO]: [app_event_handler] evt = 1b
+[INFO]: [print_power] W= 0 [mW] U=ea [mV] I= 0 [mA]
+[INFO]: [app_event_handler] PD port enable (start) completed
+[INFO]: [app_event_handler] evt = 21
+[INFO]: [print_power] W= 0 [mW] U=ea [mV] I= 0 [mA]
+[INFO]: [app_event_handler]Type-C AttachWait state entered. For internal use only.
+[INFO]: [app_event_handler] evt = 23
+[INFO]: [print_power] W= 0 [mW] U=ea [mV] I= 0 [mA]
+[INFO]: [app_event_handler] Type-C attach event
+[INFO]: [app_event_handler] evt = 2
+[INFO]: [print_power] W= 0 [mW] U=ea [mV] I= 0 [mA]
+[INFO]: [app_psrc_tmr_cbk] APP_PSOURCE_EN_TIMER expired
+[INFO]: [app_event_handler] evt = 1f
+[INFO]: [print_power] W= 0 [mW] U=ea [mV] I= 0 [mA]
+[INFO]: [app_event_handler] evt = 1
+[INFO]: [print_power] W= 0 [mW] U=ea [mV] I= 0 [mA]
+[INFO]: [call_psrc_ready_cbk]Send Ps_rdy
+[INFO]: [app_event_handler] evt = 1b
+[INFO]: [print_power] W= 0 [mW] U= 0 [mV] I= 0 [mA]
+[INFO]: [app_event_handler] PD port enable (start) completed
+[INFO]: [app_event_handler] evt = 21
+[INFO]: [print_power] W= 0 [mW] U=4e [mV] I= 0 [mA]
+[INFO]: [app_event_handler]Type-C AttachWait state entered. For internal use only.
+[INFO]: [app_event_handler] evt = 23
+[INFO]: [print_power] W= 0 [mW] U=75 [mV] I= 0 [mA]
+[INFO]: [app_event_handler] Type-C attach event
+[INFO]: [app_event_handler] evt = 2
+[INFO]: [print_power] W= 0 [mW] U=9c [mV] I= 0 [mA]
+[INFO]: [app_psrc_tmr_cbk] APP_PSOURCE_EN_TIMER expired
+[INFO]: [app_event_handler] evt = 1f
+[INFO]: [print_power] W= 0 [mW] U=ea [mV] I= 0 [mA]
+[INFO]: [app_event_handler] evt = 1
+[INFO]: [print_power] W= 0 [mW] U=ea [mV] I= 0 [mA]
+[INFO]: [call_psrc_ready_cbk]Send Ps_rdy
+[INFO]: [app_event_handler] evt = 1b
+[INFO]: [print_power] W= 0 [mW] U= 0 [mV] I= 0 [mA]
+[INFO]: [app_event_handler] PD port enable (start) completed
+[INFO]: [app_event_handler] evt = 21
+[INFO]: [print_power] W= 0 [mW] U=4e [mV] I= 0 [mA]
+[INFO]: [app_event_handler]Type-C AttachWait state entered. For internal use only.
+[INFO]: [app_event_handler] evt = 23
+[INFO]: [print_power] W= 0 [mW] U=75 [mV] I= 0 [mA]
+[INFO]: [app_event_handler] Type-C attach event
+[INFO]: [app_event_handler] evt = 2
+[INFO]: [print_power] W= 0 [mW] U=9c [mV] I= 0 [mA]
+[INFO]: [app_psrc_tmr_cbk] APP_PSOURCE_EN_TIMER expired
+[INFO]: [app_event_handler] evt = 1f
+[INFO]: [print_power] W= 0 [mW] U=15f [mV] I= 0 [mA]
+[INFO]: [app_event_handler] evt = 1
+[INFO]: [print_power] W= 0 [mW] U=138 [mV] I= 0 [mA]
+[INFO]: [call_psrc_ready_cbk]Send Ps_rdy
+[INFO]: [app_event_handler] evt = 1b
+[INFO]: [print_power] W= 0 [mW] U= 0 [mV] I= 0 [mA]
+[INFO]: [app_event_handler] PD port enable (start) completed
+[INFO]: [app_event_handler] evt = 21
+[INFO]: [print_power] W= 0 [mW] U=4e [mV] I= 0 [mA]
+[INFO]: [app_event_handler]Type-C AttachWait state entered. For internal use only.

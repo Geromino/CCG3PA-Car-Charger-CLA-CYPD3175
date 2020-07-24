@@ -1,0 +1,35 @@
+H[INFO]: [main]AMS Power Dynamic Supply
+[INFO]: [print_power] W= 0 [mW] U=ea [mV] I= 0 [mA]
+[INFO]: [app_event_handler] PD port enable (start) completed
+[INFO]: [print_power] W= 0 [mW] U=ea [mV] I= 0 [mA]
+[INFO]: [app_event_handler]Type-C AttachWait state entered. For internal use only.
+[INFO]: [print_power] W= 0 [mW] U=c3 [mV] I= 0 [mA]
+[INFO]: [app_event_handler] Type-C attach event
+[INFO]: [print_power] W= 0 [mW] U=c3 [mV] I= 0 [mA]
+[INFO]: [print_power] W= 0 [mW] U=1360 [mV] I= 0 [mA]
+[INFO]: [app_psrc_tmr_cbk] APP_PSOURCE_EN_TIMER expired
+[INFO]: [call_psrc_ready_cbk]Send Ps_rdy
+[INFO]: [print_power] W= 0 [mW] U= 0 [mV] I= 0 [mA]
+[INFO]: [app_event_handler] PD port enable (start) completed
+[INFO]: [print_power] W= 0 [mW] U=27 [mV] I= 0 [mA]
+[INFO]: [app_event_handler]Type-C AttachWait state entered. For internal use only.
+[INFO]: [print_power] W= 0 [mW] U=75 [mV] I= 0 [mA]
+[INFO]: [app_event_handler] Type-C attach event
+[INFO]: [print_power] W= 0 [mW] U=c3 [mV] I= 0 [mA]
+[INFO]: [print_power] W= 0 [mW] U=c3 [mV] I= 0 [mA]
+[INFO]: [app_psrc_tmr_cbk] APP_PSOURCE_EN_TIMER expired
+[INFO]: [call_psrc_ready_cbk]Send Ps_rdy
+[INFO]: [print_power] W= 0 [mW] U= 0 [mV] I= 0 [mA]
+[INFO]: [app_event_handler] PD port enable (start) completed
+[INFO]: [print_power] W= 0 [mW] U=27 [mV] I= 0 [mA]
+[INFO]: [app_event_handler]Type-C AttachWait state entered. For internal use only.
+[INFO]: [print_power] W= 0 [mW] U=75 [mV] I= 0 [mA]
+[INFO]: [app_event_handler] Type-C attach event
+[INFO]: [print_power] W= 0 [mW] U=75 [mV] I= 0 [mA]
+[INFO]: [print_power] W= 0 [mW] U=75 [mV] I= 0 [mA]
+[INFO]: [app_psrc_tmr_cbk] APP_PSOURCE_EN_TIMER expired
+[INFO]: [call_psrc_ready_cbk]Send Ps_rdy
+[INFO]: [print_power] W= 0 [mW] U= 0 [mV] I= 0 [mA]
+[INFO]: [app_event_handler] PD port enable (start) completed
+[INFO]: [print_power] W= 0 [mW] U=27 [mV] I= 0 [mA]
+[INFO]: [app_event_handler]Type-C AttachWait state entered. For internal use only.
